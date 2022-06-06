@@ -9,6 +9,11 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt=""></img>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt=""></img>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt=""></img>
+</p>
+
+<h2 align="center"  style="color: #9938F0">Veja Aqui👀</h2>
+<p align="center">
+    https://jacksonmarcelinofreitas.github.io/snakeGame/
 </p><br><br>
 
 <p align="center" style="color: #BD94F2">🚀Bootcamp HTML Web Developer - Digital Inovation One</p>
